@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://corny-ym.github.io/Yowaimou/](https://corny-ym.github.io/Yowaimou/)
+- 👨‍💻 All of my projects are available at [https://corny-ym.github.io/](https://corny-ym.github.io/)
 
 - 💬 Ask me about **JS, PHP**
 
