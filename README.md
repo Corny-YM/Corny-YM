@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corny&label=Profile%20views&color=0e75b6&style=flat" alt="corny" /> </p>
 
-- 🔭 I’m currently working on [my own](https://corny-ym.github.io/Corny_MP3/)
+- 🔭 I’m currently working on [AecomTech](https://www.facebook.com/AecomTech/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Vue**
 
 - 👨‍💻 All of my projects are available at [https://corny-ym.github.io/](https://corny-ym.github.io/)
 
-- 💬 Ask me about **JS, PHP**
+- 💬 Ask me about **TS, JS, PHP**
 
 - 📫 How to reach me **vietcong1508@gmail.com**
 
