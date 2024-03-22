@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Vue**
 
-- 👨‍💻 All of my projects are available at [https://corny-ym.github.io/](https://corny-ym.github.io/)
+- 👨‍💻 All of my projects are available at [https://cornyportfolio.netlify.app/](https://cornyportfolio.netlify.app/)
 
 - 💬 Ask me about **TS, JS, PHP**
 
